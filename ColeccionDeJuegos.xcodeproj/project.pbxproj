@@ -13,6 +13,7 @@
 		F3F7E02F22723F2E0047A424 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F3F7E02D22723F2E0047A424 /* ColeccionDeJuegos.xcdatamodeld */; };
 		F3F7E03122723F2F0047A424 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3F7E03022723F2F0047A424 /* Assets.xcassets */; };
 		F3F7E03422723F2F0047A424 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3F7E03222723F2F0047A424 /* LaunchScreen.storyboard */; };
+		F3F7E03C227243D40047A424 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F7E03B227243D40047A424 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F3F7E03022723F2F0047A424 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3F7E03322723F2F0047A424 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F3F7E03522723F2F0047A424 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3F7E03B227243D40047A424 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F3F7E03222723F2F0047A424 /* LaunchScreen.storyboard */,
 				F3F7E03522723F2F0047A424 /* Info.plist */,
 				F3F7E02D22723F2E0047A424 /* ColeccionDeJuegos.xcdatamodeld */,
+				F3F7E03B227243D40047A424 /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3F7E02922723F2E0047A424 /* ViewController.swift in Sources */,
+				F3F7E03C227243D40047A424 /* JuegosViewController.swift in Sources */,
 				F3F7E02722723F2E0047A424 /* AppDelegate.swift in Sources */,
 				F3F7E02F22723F2E0047A424 /* ColeccionDeJuegos.xcdatamodeld in Sources */,
 			);
